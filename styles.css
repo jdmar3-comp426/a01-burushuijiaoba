@@ -45,3 +45,8 @@ h1{
   height: 150px;
   width: 50%;
 }
+
+div > P{
+  color:#FFFCCF;
+  font-size: 80%;
+}
